@@ -1,55 +1,72 @@
-# Hi, I'm Mehmet HÖKE 👋
+<h1 align="center">👋 Hi, I'm Mehmet Höke</h1>
+<h3 align="center">Mobile Developer (React Native · Kotlin) & Full-Stack Builder</h3>
 
-🎓 Computer Engineering graduate from **Atatürk University**  
-💻 Passionate about **Mobile Development, Web Development, and Software Engineering**  
-📱 Currently focusing on **React Native** for cross-platform mobile app development  
-
----
-
-## 🛠️ Technical Skills
-
-- **Programming Languages:** Python, JavaScript, C#, C++, Kotlin, Java, R, SQL  
-- **Web Development:** HTML5, CSS3, Node.js, React Native, WordPress (learning)  
-- **Mobile Development:** Kotlin, Flutter (internship experience), React Native (ongoing)  
-- **Data & Tools:** Power BI, Firebase, Git/GitHub, MSSQL  
-- **Other Interests:** AI & Machine Learning, Automation, Cloud Services  
+<p align="center">
+  I build mobile apps, backend pipelines and full-stack solutions.  
+  Passionate about clean architecture, scalable cloud systems and high-quality product development.
+</p>
 
 ---
 
-## 📂 Featured Projects
-
-- 🎶 **PianoSense (React Native + Python + Firebase)**  
-  A mobile app for **real-time music analysis** that displays notes as the song progresses.  
-  (Currently being redesigned with React Native and FastAPI.)
-
-- 🌐 [**Portfolio Website**](https://mehmethooke.github.io/Porfolio/)  
-  Personal website showcasing my skills, projects, and contact details.
-
-- 🎰 [**Python Slot Machine Game**](https://github.com/MehmetHooke/slot-machine)  
-  A command-line slot machine game where users can deposit money, place bets, and spin.
-
-- 🧮 [**JavaScript Calculator**](https://github.com/MehmetHooke/web-calculator)  
-  A simple and responsive calculator built with HTML, CSS, and JavaScript.
-
-- 📦 **Barcode Tracking System (Internship Project)**  
-  Desktop & mobile solution integrating Python, Flutter, Firebase, and Zebra printers for warehouse tracking.
+## 🚀 About Me
+- 📱 **Mobile Developer:** React Native + Expo Router, Kotlin  
+- ☁️ **Backend Experience:** Firebase (Auth, Firestore, Storage, Realtime DB), Google Cloud Run  
+- 🛠️ **Full-stack product builder** — designing UI, writing backend, building deployment pipelines  
+- 🎧 Creator of **PianoSense**, a real-time piano note detection & evaluation system  
+- 📄 Creator of **QuickCV**, a CV generator that renders dynamic HTML templates into PDF using Playwright  
+- 🎯 Always learning and building SaaS products
 
 ---
 
-## 🌍 Career Goals
+## 🧩 Tech Stack
 
-I am seeking opportunities to contribute as a **Frontend / Mobile Developer** or **Software Engineer** in Europe.  
-My primary focus is **Germany**, but I am also open to opportunities in other innovative European countries such as **Netherlands, Sweden, and Finland**.  
-Long-term, I aim to specialize in **AI-powered mobile applications and SaaS products**.  
+### **Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### **Mobile / Frontend**
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+### **Backend / Cloud**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### **Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 📬 Get in Touch
+## 📌 Featured Projects
 
-- 📧 Email: [hoke628@gmail.com](mailto:hoke628@gmail.com)  
-- 💼 LinkedIn: [Mehmet HÖKE](https://www.linkedin.com/in/mehmethoke/)  
-- 💻 GitHub: [MehmetHooke](https://github.com/MehmetHooke)  
+### 🔹 **QuickCV – Mobile CV Builder App**
+A mobile CV builder built with **React Native + Expo Router**.  
+Users select a template → enter information → app sends data to a **GCloud Run server** →  
+server generates a **dynamic HTML template → Playwright → PDF** and sends downloadable link back.
+
+🔗 Repo: *Pinned below*
 
 ---
 
-⭐ *If you find my work interesting, feel free to connect or star my repositories!*
+### 🔹 **PianoSense – Real-time Piano Note Detection**
+Native Android app built in **Kotlin + JS**, uses **TarsosDSP** to extract pitch in real-time.  
+Detected notes are compared with the original score & uploaded to Firebase Realtime DB.  
+3–4 seconds inside, user sees exact comparison.
+
+🔗 Repo: *Pinned below*
+https://github.com/MehmetHooke/pianoSensev3
+---
+
+## 📫 Contact
+- 📧 **Email:** mehmet.hoke@live.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/mehmethoke/
+
+---
+
+<p align="center">⭐ If you like my work, consider giving a star to my projects!</p>
