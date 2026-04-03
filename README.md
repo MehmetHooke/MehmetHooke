@@ -2,8 +2,18 @@
 <h3 align="center">Frontend & Mobile Developer (React · React Native · Kotlin)</h3>
 
 <p align="center">
-  I develop frontend and mobile applications with a strong focus on scalable architecture,  
-  cloud-based systems and real-world product development.
+## 🧑‍💻 About Me
+
+I am a **Junior Mobile Developer** focused on building **real-world products** using **React Native, Expo, and Firebase**.
+
+Beyond developing interfaces, I design and implement **end-to-end application flows** — from mobile UI to backend services. I have experience working with **RESTful APIs**, managing **asynchronous data flows**, and building scalable, user-focused architectures.
+
+I have developed and published my own applications, where I implemented features such as:
+- **Dynamic content systems and test logic based on user behavior**
+- **Cloud-based backend integrations (Google Cloud Run, Firebase)**
+- **Performance-focused UI/UX and reusable component structures**
+
+I am highly motivated to build impactful products, continuously improve my technical skills, and turn ideas into scalable applications.
 </p>
 
 ---
