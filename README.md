@@ -55,7 +55,21 @@ Mobile application built with **React Native + Expo Router**.
 User data is sent to a **Google Cloud Run backend**, where dynamic **HTML templates**  
 are rendered into **PDF files using Playwright** and returned to the mobile app.
 
-🔗 Repository pinned on profile
+🔗 https://github.com/MehmetHooke/quick-cv
+Google Play store Link: https://play.google.com/store/apps/details?id=com.anonymous.quicklycv
+
+---
+
+### 🔹 **Yanlış Defterim – Smart Mistake Tracking App**
+Mobile application built with **React Native + Expo + Firebase**.  
+Allows students to record incorrectly solved questions, categorize them by lesson/topic,  
+and generate personalized practice tests based on weak areas and past performance.
+
+Includes features like **photo/text-based question input**, **analytics-driven test modes**,  
+and **progress tracking using Firestore metrics**.
+
+🔗 https://github.com/MehmetHooke/Yanlis-Defteri
+Google Play store Link: https://play.google.com/store/apps/details?id=com.mehmethooke.yanlisdefteri
 
 ---
 
@@ -65,7 +79,6 @@ Performs real-time pitch detection, converts sound into musical notes,
 and compares user performance with the original piece using Firebase Realtime DB.
 
 🔗 https://github.com/MehmetHooke/pianoSensev3
-
 ---
 
 ## 📫 Contact
