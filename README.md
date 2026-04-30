@@ -2,14 +2,14 @@
 <h3 align="center">Frontend & Mobile Developer (React · React Native · Kotlin)</h3>
 
 <p align="center">
-I am a <b>Junior Mobile Developer</b> focused on building real-world products using **React Native, Expo, and Firebase**.
+I am a <b>Junior Mobile Developer</b> focused on building real-world products using <b>React Native, Expo, and Firebase</b>.
 
-Beyond developing interfaces, I design and implement **end-to-end application flows** — from mobile UI to backend services. I have experience working with **RESTful APIs**, managing **asynchronous data flows**, and building scalable, user-focused architectures.
+Beyond developing interfaces, I design and implement <b>end-to-end application flows</b> — from mobile UI to backend services. I have experience working with <b>RESTful APIs</b>, managing <b>asynchronous data flows</b>, and building scalable, user-focused architectures.
 
 I have developed and published my own applications, where I implemented features such as:
-- **Dynamic content systems and test logic based on user behavior**
-- **Cloud-based backend integrations (Google Cloud Run, Firebase)**
-- **Performance-focused UI/UX and reusable component structures**
+- Dynamic content systems and test logic based on user behavior
+- Cloud-based backend integrations (Google Cloud Run, Firebase)
+- Performance-focused UI/UX and reusable component structures
 
 I am highly motivated to build impactful products, continuously improve my technical skills, and turn ideas into scalable applications.
 </p>
@@ -17,11 +17,11 @@ I am highly motivated to build impactful products, continuously improve my techn
 ---
 
 ## 🚀 About Me
-- 💻 **Frontend & Mobile Developer:** React, React Native (Expo Router), Kotlin  
-- ☁️ **Backend & Cloud:** Firebase (Auth, Firestore, Realtime DB, Storage), Google Cloud Run  
+- 💻 <b>Frontend & Mobile Developer:</b> React, React Native (Expo Router), Kotlin  
+- ☁️ <b>Backend & Cloud:</b> Firebase (Auth, Firestore, Realtime DB, Storage), Google Cloud Run  
 - 🧩 Experienced in building **end-to-end products** — from UI to backend pipelines  
-- 📄 Creator of **QuickCV**, a mobile CV builder with dynamic HTML → PDF generation  
-- 🎹 Creator of **PianoSense**, a real-time piano note detection and performance analysis app  
+- 📄 Creator of <b>QuickCV</b>, a mobile CV builder with dynamic HTML → PDF generation  
+- 🎹 Creator of <b>PianoSense</b>, a real-time piano note detection and performance analysis app  
 - 🎯 Focused on clean code, maintainable systems and user-centered products  
 
 ---
