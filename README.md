@@ -2,7 +2,7 @@
 <h3 align="center">Frontend & Mobile Developer (React · React Native · Kotlin)</h3>
 
 <p align="center">
-I am a <b>Junior Mobile Developer</b> focused on building real-world products using <b>React Native, Expo, and Firebase</b>.
+I am a <b>Junior Web&Mobile Developer</b> focused on building real-world products using <b>React Native, Expo, and Firebase</b>.
 
 Beyond developing interfaces, I design and implement <b>end-to-end application flows</b> — from mobile UI to backend services. I have experience working with <b>RESTful APIs</b>, managing <b>asynchronous data flows</b>, and building scalable, user-focused architectures.
 
